@@ -4,7 +4,7 @@ Now that we have a functioning space ship, we'll add some asteroids to our game.
 
 Suggested steps to writing an Asteroid class
 -----------------------------------
-1. Create a new `Asteroid.pde` file in your `AsteroidsGame` folder. One way to do this is in Processing is to open the AsteroidGame sketch you created in Part 1. Make sure that when you do this you have the most current sketch for AsteroidGame. Then, create a new tab called `Asteroid` using mixed case exactly as shown. Thgis will create a new `Asteroid.pde` file along with the previosly created AsteroidGame.pde in your sketch folder.
+1. Create a new `Asteroid.pde` file in your `AsteroidsGame` folder. One way to do this is in Processing is to open the AsteroidGame sketch you created in Part 1. Make sure that when you do this you have the most current sketch for AsteroidGame. Then, create a new tab called `Asteroid` using mixed case exactly as shown. This will create a new `Asteroid.pde` file along with the previosly created AsteroidGame.pde in your sketch folder.
 2. You can now write an `Asteroid` class that `extends Floater` in your Asteroid.pde file. You will need to
 write the following members and label them appropriately (`public` or `private`?):
    - a member variable to hold the speed of rotation for each asteroid
